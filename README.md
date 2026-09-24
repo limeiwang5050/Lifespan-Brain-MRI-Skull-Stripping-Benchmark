@@ -20,15 +20,15 @@ The lifespan benchmark data were obtained from nine publicly available neuroimag
 
 | Dataset | Reference Labels | Original MRI Data |
 |---|---|---|
-| dHCP | [`dHCP_labels.zip`](labels/dHCP_labels.zip) | [Developing Human Connectome Project](https://biomedia.github.io/dHCP-release-notes/) |
-| HBCD | [`HBCD_labels.zip`](labels/HBCD_labels.zip) | [NBDC Data Hub](https://www.nbdc-datahub.org/) |
-| BCP | [`BCP_labels.zip`](labels/BCP_labels.zip) | [NIMH Data Archive – Baby Connectome Project](https://nda.nih.gov/edit_collection.html?id=2848) |
-| IBIS | [`IBIS_labels.zip`](labels/IBIS_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
-| HCPD | [`HCPD_labels.zip`](labels/HCPD_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
-| ABCD | [`ABCD_labels.zip`](labels/ABCD_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
-| HCP | [`HCP_labels.zip`](labels/HCP_labels.zip) | [Human Connectome Project – Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) |
-| IXI | [`IXI_labels.zip`](labels/IXI_labels.zip) | [IXI Dataset](https://brain-development.org/ixi-dataset/) |
-| HCPA | [`HCPA_labels.zip`](labels/HCPA_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
+| dHCP | [`dHCP_labels.zip`](Labels/dHCP_labels.zip) | [Developing Human Connectome Project](https://biomedia.github.io/dHCP-release-notes/) |
+| HBCD | [`Part 1`](Labels/HBCD_1_labels.zip) · [`Part 2`](Labels/HBCD_2_labels.zip) · [`Part 3`](Labels/HBCD_3_labels.zip) | [NBDC Data Hub](https://www.nbdc-datahub.org/) |
+| BCP | [`BCP_labels.zip`](Labels/BCP_labels.zip) | [NIMH Data Archive – Baby Connectome Project](https://nda.nih.gov/edit_collection.html?id=2848) |
+| IBIS | [`IBIS_labels.zip`](Labels/IBIS_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
+| HCPD | [`HCPD_labels.zip`](Labels/HCPD_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
+| ABCD | [`ABCD_labels.zip`](Labels/ABCD_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
+| HCP | [`HCP_labels.zip`](Labels/HCP_labels.zip) | [Human Connectome Project – Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) |
+| IXI | [`Part 1`](Labels/IXI_1_labels.zip) · [`Part 2`](Labels/IXI_2_labels.zip) · [`Part 3`](Labels/IXI_3_labels.zip) | [IXI Dataset](https://brain-development.org/ixi-dataset/) |
+| HCPA | [`HCPA_labels.zip`](Labels/HCPA_labels.zip) | [NIMH Data Archive](https://nda.nih.gov/) |
 
 ---
 
